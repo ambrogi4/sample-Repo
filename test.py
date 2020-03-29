@@ -4,7 +4,6 @@ import sys
 
 import requests
 
-msg = "hello world"
-print(msg)
-
 print (sys.version)
+
+a = test
